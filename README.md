@@ -1,11 +1,11 @@
 # docker-amd-miner
 IN DEVELOPMENT-NEEDS TESTING\
 AMD miner for Kasm Workspaces\
-This Dockerfile will install and run a full desktop with AMD GPU drivers installed,\ 
-allowing you to mine instantly, from a docker container.\
-Currently only RX580 has been tested.\
+This Dockerfile will install and run a full desktop with AMD GPU drivers installed, \ 
+allowing you to mine instantly, from a docker container. \
+Currently only RX580 has been tested.
 
-To run this container you need to install the desktop streaming platform Kasm Workspaces\
+To run this container you need to install the desktop streaming platform Kasm Workspaces
 
 https://www.kasmweb.com/
 
