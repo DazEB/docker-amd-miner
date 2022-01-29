@@ -13,7 +13,7 @@ To run this container you need to install the desktop streaming platform Kasm Wo
 
 https://www.kasmweb.com/
 
-After installing Kasm you can create a new dockerfile and run it with
+After installing Kasm you can create a new dockerfile from the Dockerfile in this repo and run it with
 
 `sudo docker build -t amdgpu:trm091 -f Dockerfile .`
 
